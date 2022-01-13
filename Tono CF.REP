@@ -1,0 +1,16 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=6	;Analysis GUID
+LOCALIZATION_UTF8=25DCC7A32930498983CAC91900039CB2	t_province	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application Android\t_province.fic
+LOCALIZATION_UTF8=61F3D3511CAE4640A28E34C2B1D7E91A	t_territoire	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application Android\t_territoire.fic
+LOCALIZATION_UTF8=76DCAA7E420649F9BCE7BE3C22D1CE25	t_entite_accuse	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application Android\t_entite_accuse.fic
+LOCALIZATION_UTF8=B727033CCFA04D06A2E64B1F5D791055	t_direction	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application Android\t_direction.fic
+LOCALIZATION_UTF8=7E0576F52D0247DBA267033879BBAB50	t_fileplainte	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application Android\t_fileplainte.fic
+LOCALIZATION_UTF8=447EAAB2DC214410B683BF5EF7686BC8	t_typeplainte	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application Android\t_typeplainte.fic
+LOCALIZATION_UTF8=94274D2560BD47618695FAAF439AF7A5	t_annonces	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application Android\t_annonces.fic
+LOCALIZATION_UTF8=7E0576F52D0247DBA267033879BBAB50	t_fileplainte	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application iOS\t_fileplainte.fic
+LOCALIZATION_UTF8=25DCC7A32930498983CAC91900039CB2	t_province	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application iOS\t_province.fic
+LOCALIZATION_UTF8=61F3D3511CAE4640A28E34C2B1D7E91A	t_territoire	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application iOS\t_territoire.fic
+LOCALIZATION_UTF8=76DCAA7E420649F9BCE7BE3C22D1CE25	t_entite_accuse	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application iOS\t_entite_accuse.fic
+LOCALIZATION_UTF8=447EAAB2DC214410B683BF5EF7686BC8	t_typeplainte	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application iOS\t_typeplainte.fic
+LOCALIZATION_UTF8=94274D2560BD47618695FAAF439AF7A5	t_annonces	E:\Mes projets\Projet ROGER\Tono CF\Exe\Application iOS\t_annonces.fic

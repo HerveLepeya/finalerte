@@ -1,0 +1,447 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1-7011
+MERGED from [WD250Android.aar] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\bec4e06b3fbe9e096eb05f2056069fb3\WD250Android\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1-7011
+	package
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:117-150
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:151-181
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:182-206
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:207-237
+application
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:238-6090
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:313-345
+	android:resizeableActivity
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:407-440
+	android:largeHeap
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:381-405
+	android:icon
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:346-380
+	android:usesCleartextTraffic
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:441-476
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:251-312
+activity#com.masociete.finalerte.wdgen.GWDPTono_CF$WDLanceur
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:477-888
+	android:label
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:531-563
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:633-735
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:564-632
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:487-530
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:736-877
+action#android.intent.action.MAIN
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:751-802
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:759-800
+category#android.intent.category.LAUNCHER
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:802-861
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:812-859
+activity#com.masociete.finalerte.wdgen.GWDFFEN_APropos$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:888-1138
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1101-1136
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:954-1063
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1064-1100
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:898-953
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Plainte_MOBILE_2$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1138-1397
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1360-1395
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1213-1322
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1323-1359
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1148-1212
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Message$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1397-1654
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1617-1652
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1463-1572
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1573-1616
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1407-1462
+activity#com.masociete.finalerte.wdgen.GWDFFEN_MotifPlainte$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1654-1916
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1879-1914
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1725-1834
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1835-1878
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1664-1724
+activity#com.masociete.finalerte.wdgen.GWDFFEN_MENU$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1916-2163
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2126-2161
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1979-2088
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2089-2125
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1926-1978
+activity#com.masociete.finalerte.wdgen.GWDFFEN_TypeDenonciation$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2163-2429
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2392-2427
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2238-2347
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2348-2391
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2173-2237
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Plainte$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2429-2679
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2642-2677
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2495-2604
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2605-2641
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2439-2494
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Documents$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2679-2943
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2906-2941
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2759-2868
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2869-2905
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2689-2758
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Audio_MOBILE$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2943-3210
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3173-3208
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3026-3135
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3136-3172
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2953-3025
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Images$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3210-3471
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3434-3469
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3287-3396
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3397-3433
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3220-3286
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Documents_2$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3471-3737
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3700-3735
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3553-3662
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3663-3699
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3481-3552
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Plainte_MOBILE$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3737-3994
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3957-3992
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3810-3919
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3920-3956
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3747-3809
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Nos_annonces$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3994-4249
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4212-4247
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4065-4174
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4175-4211
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4004-4064
+activity#com.masociete.finalerte.wdgen.GWDFFEN_Suivi_Plainte$WDActiviteFenetre
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4249-4505
+	android:hardwareAccelerated
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4468-4503
+	android:configChanges
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4321-4430
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4431-4467
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4259-4320
+uses-library#org.apache.http.legacy
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4505-4583
+	android:required
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4557-4581
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4519-4556
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4583-4804
+	tools:node
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4782-4802
+	xmlns:android
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4593-4651
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4725-4781
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4652-4724
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4804-5013
+	tools:node
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4991-5011
+	xmlns:android
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4814-4872
+	android:theme
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4942-4990
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4873-4941
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5013-5378
+	tools:node
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5177-5197
+	android:label
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5144-5176
+	xmlns:android
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5023-5081
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5082-5143
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5198-5282
+action#android.intent.action.SEARCH
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5213-5266
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5221-5264
+meta-data#android.app.searchable
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5282-5367
+	android:resource
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5331-5365
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5293-5330
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5378-5601
+	tools:node
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5579-5599
+	android:authorities
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5533-5578
+	android:exported
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5508-5532
+	xmlns:android
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5388-5446
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5447-5507
+activity#fr.pcsoft.wdjava.net.oauth2.WDOAuth2Manager$OAuthActivity
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5601-5765
+	tools:node
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5743-5763
+	xmlns:android
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5611-5669
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5670-5742
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5765-5835
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5774-5833
+meta-data#fr.pcsoft.first_window_name
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5835-5915
+	android:value
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5889-5913
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5846-5888
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5915-5995
+	android:value
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5976-5993
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5926-5975
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5995-6076
+	android:value
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6057-6074
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6006-6056
+uses-sdk
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6090-6158
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6090-6158
+MERGED from [WD250Android.aar] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\bec4e06b3fbe9e096eb05f2056069fb3\WD250Android\AndroidManifest.xml:7:5-9:41
+MERGED from [WD250Android.aar] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\bec4e06b3fbe9e096eb05f2056069fb3\WD250Android\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6090-6158
+	android:targetSdkVersion
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6127-6156
+	android:minSdkVersion
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6100-6126
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+		INJECTED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml
+supports-screens
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6158-6317
+	android:largeScreens
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6233-6260
+	android:smallScreens
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6176-6203
+	android:normalScreens
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6204-6232
+	android:xlargeScreens
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6261-6289
+	android:anyDensity
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6290-6315
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6317-6392
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6334-6390
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6392-6465
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6409-6463
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6465-6540
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6482-6538
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6540-6613
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6557-6611
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6613-6687
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6630-6685
+uses-permission#android.permission.INTERNET
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6687-6748
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6704-6746
+uses-feature#android.hardware.location.network
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6748-6836
+	android:required
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6811-6834
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6762-6810
+uses-feature#android.hardware.location.gps
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6836-6920
+	android:required
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6895-6918
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6850-6894
+uses-feature#android.hardware.location
+ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6920-7000
+	android:required
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6975-6998
+	android:name
+		ADDED from E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6934-6974

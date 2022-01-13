@@ -1,0 +1,17 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+t_rapportplainte		TAR	455	nouvelle taille enregistrement : 455
+t_rapportplainte	Reference	NNR	Civilite	ATTENTION : la clé Civilite a pour nouveau nom Reference
+t_rapportplainte	Reference	CLEU*		la rubrique Reference est maintenant une clé
+t_rapportplainte	Noms	CLEN*		la rubrique Noms est maintenant une clé
+t_rapportplainte	NomEntite	NNR	Contenu	ATTENTION : la clé Contenu a pour nouveau nom NomEntite
+t_rapportplainte	NomEntite	CLEN*		la rubrique NomEntite est maintenant une clé
+t_rapportplainte	NomEntite	TAI+	150	la rubrique NomEntite a comme nouvelle taille 201 au lieu de 51
+t_rapportplainte	Province	NNR	TypePersonne	ATTENTION : la rubrique TypePersonne a pour nouveau nom Province
+t_rapportplainte	Territoire	NNR	DenominationPersonne	ATTENTION : la rubrique DenominationPersonne a pour nouveau nom Territoire
+t_rapportplainte	Statut	RUB+		Statut est une nouvelle rubrique
+t_rapportplainte	NomsAccuse	RUB+		NomsAccuse est une nouvelle rubrique
+t_rapportplainte	Adresse	RUB-		la rubrique Adresse est supprimée
+t_rapportplainte	Telephone	RUB-		la rubrique Telephone est supprimée
+t_rapportplainte	TerritoireId	RUB-		la rubrique TerritoireId est supprimée
+t_rapportplainte	TypePlainte	RUB-		la rubrique TypePlainte est supprimée
+t_rapportplainte	TypeContenu	RUB-		la rubrique TypeContenu est supprimée

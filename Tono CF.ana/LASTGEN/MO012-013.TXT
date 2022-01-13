@@ -1,0 +1,22 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+t_plainte		TAR	905	nouvelle taille enregistrement : 905
+t_plainte	Civilite	RUB+		Civilite est une nouvelle rubrique
+t_plainte	Noms	RUB+		Noms est une nouvelle clé
+t_plainte	Email	RUB+		Email est une nouvelle rubrique
+t_plainte	Adresse	RUB+		Adresse est une nouvelle rubrique
+t_plainte	Telephone	RUB+		Telephone est une nouvelle rubrique
+t_plainte	TerritoireId	RUB+		TerritoireId est une nouvelle clé
+t_plainte	ProvinceId	RUB+		ProvinceId est une nouvelle clé
+t_plainte	MotifPlainte	RUB+		MotifPlainte est une nouvelle rubrique
+t_plainte	CoordonneeGPS_Altitude	RUB+		CoordonneeGPS_Altitude est une nouvelle rubrique
+t_plainte	CoordonneeGPS_Latitude	RUB+		CoordonneeGPS_Latitude est une nouvelle rubrique
+t_plainte	CoordonneeGPS_Longitude	RUB+		CoordonneeGPS_Longitude est une nouvelle rubrique
+t_plainte	CoordonneeGPS_Precision	RUB+		CoordonneeGPS_Precision est une nouvelle rubrique
+t_plainte	NomAccuse	RUB+		NomAccuse est une nouvelle rubrique
+t_plainte	TypeContenu	RUB+		TypeContenu est une nouvelle rubrique
+t_plainte	PhoneId	RUB+		PhoneId est une nouvelle rubrique
+t_plainte	ServiceAccuse	RUB+		ServiceAccuse est une nouvelle rubrique
+t_plainte	ProvinceAccuse	RUB+		ProvinceAccuse est une nouvelle rubrique
+t_plainte	LocalisationAccuse	RUB+		LocalisationAccuse est une nouvelle rubrique
+t_plainte	EntiteAccuse	RUB+		EntiteAccuse est une nouvelle rubrique
+t_plainte	Statut	RUB+		Statut est une nouvelle rubrique

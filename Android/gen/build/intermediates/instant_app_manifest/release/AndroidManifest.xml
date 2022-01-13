@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.masociete.finalerte"
+    android:installLocation="auto"
+    android:targetSandboxVersion="2"
+    android:versionCode="80"
+    android:versionName="0.0.13.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.location.network"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="true" />
+
+    <application
+        android:name="fr.pcsoft.wdjava.core.application.WDAndroidApp"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:icon="@drawable/logofin_2"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:resizeableActivity="true"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDPTono_CF$WDLanceur"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_APropos$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Plainte_MOBILE_2$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Message$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_MotifPlainte$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_MENU$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_TypeDenonciation$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Plainte$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Documents$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Audio_MOBILE$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Images$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Documents_2$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Plainte_MOBILE$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Nos_annonces$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Suivi_Plainte$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+            android:theme="@android:style/Theme.DeviceDefault.Light" />
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+
+        <provider
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory"
+            android:authorities="com.masociete.finalerte"
+            android:exported="false" />
+
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.net.oauth2.WDOAuth2Manager$OAuthActivity" />
+
+        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+
+        <meta-data
+            android:name="fr.pcsoft.first_window_name"
+            android:value="FEN_MENU" />
+        <meta-data
+            android:name="fr.pcsoft.splash_orientation_phone"
+            android:value="4" />
+        <meta-data
+            android:name="fr.pcsoft.splash_orientation_tablet"
+            android:value="4" />
+    </application>
+
+</manifest>

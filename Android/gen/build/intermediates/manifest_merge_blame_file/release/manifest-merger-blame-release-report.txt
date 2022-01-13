@@ -1,0 +1,332 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.masociete.finalerte"
+4    android:installLocation="auto"
+5    android:versionCode="80"
+6    android:versionName="0.0.13.0" >
+7
+8    <uses-sdk
+8-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6090-6158
+9        android:minSdkVersion="21"
+9-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6100-6126
+10        android:targetSdkVersion="30" />
+10-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6127-6156
+11
+12    <supports-screens
+12-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6158-6317
+13        android:anyDensity="true"
+13-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6290-6315
+14        android:largeScreens="true"
+14-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6233-6260
+15        android:normalScreens="true"
+15-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6204-6232
+16        android:smallScreens="true"
+16-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6176-6203
+17        android:xlargeScreens="true" />
+17-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6261-6289
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6317-6392
+19-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6334-6390
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6392-6465
+20-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6409-6463
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+21-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6465-6540
+21-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6482-6538
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6540-6613
+22-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6557-6611
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6613-6687
+23-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6630-6685
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6687-6748
+24-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6704-6746
+25
+26    <uses-feature
+26-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6748-6836
+27        android:name="android.hardware.location.network"
+27-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6762-6810
+28        android:required="true" />
+28-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6811-6834
+29    <uses-feature
+29-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6836-6920
+30        android:name="android.hardware.location.gps"
+30-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6850-6894
+31        android:required="true" />
+31-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6895-6918
+32    <uses-feature
+32-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6920-7000
+33        android:name="android.hardware.location"
+33-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6934-6974
+34        android:required="true" />
+34-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6975-6998
+35
+36    <application
+36-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:238-6090
+37        android:name="fr.pcsoft.wdjava.core.application.WDAndroidApp"
+37-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:251-312
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.1.0] C:\Users\DEV HLO\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+39        android:icon="@drawable/logofin_2"
+39-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:346-380
+40        android:label="@string/app_name"
+40-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:313-345
+41        android:largeHeap="true"
+41-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:381-405
+42        android:resizeableActivity="true"
+42-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:407-440
+43        android:usesCleartextTraffic="true" >
+43-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:441-476
+44        <activity
+44-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:477-888
+45            android:name="com.masociete.finalerte.wdgen.GWDPTono_CF$WDLanceur"
+45-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:487-530
+46            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+46-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:633-735
+47            android:label="@string/app_name"
+47-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:531-563
+48            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+48-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:564-632
+49            <intent-filter>
+49-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:736-877
+50                <action android:name="android.intent.action.MAIN" />
+50-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:751-802
+50-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:759-800
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:802-861
+52-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:812-859
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:888-1138
+56            android:name="com.masociete.finalerte.wdgen.GWDFFEN_APropos$WDActiviteFenetre"
+56-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:898-953
+57            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+57-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:954-1063
+58            android:hardwareAccelerated="false"
+58-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1101-1136
+59            android:theme="@android:style/Theme" />
+59-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1064-1100
+60        <activity
+60-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1138-1397
+61            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Plainte_MOBILE_2$WDActiviteFenetre"
+61-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1148-1212
+62            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+62-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1213-1322
+63            android:hardwareAccelerated="false"
+63-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1360-1395
+64            android:theme="@android:style/Theme" />
+64-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1323-1359
+65        <activity
+65-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1397-1654
+66            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Message$WDActiviteFenetre"
+66-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1407-1462
+67            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+67-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1463-1572
+68            android:hardwareAccelerated="false"
+68-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1617-1652
+69            android:theme="@android:style/Theme.Dialog" />
+69-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1573-1616
+70        <activity
+70-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1654-1916
+71            android:name="com.masociete.finalerte.wdgen.GWDFFEN_MotifPlainte$WDActiviteFenetre"
+71-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1664-1724
+72            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+72-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1725-1834
+73            android:hardwareAccelerated="false"
+73-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1879-1914
+74            android:theme="@android:style/Theme.Dialog" />
+74-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1835-1878
+75        <activity
+75-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1916-2163
+76            android:name="com.masociete.finalerte.wdgen.GWDFFEN_MENU$WDActiviteFenetre"
+76-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1926-1978
+77            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+77-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:1979-2088
+78            android:hardwareAccelerated="false"
+78-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2126-2161
+79            android:theme="@android:style/Theme" />
+79-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2089-2125
+80        <activity
+80-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2163-2429
+81            android:name="com.masociete.finalerte.wdgen.GWDFFEN_TypeDenonciation$WDActiviteFenetre"
+81-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2173-2237
+82            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+82-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2238-2347
+83            android:hardwareAccelerated="false"
+83-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2392-2427
+84            android:theme="@android:style/Theme.Dialog" />
+84-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2348-2391
+85        <activity
+85-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2429-2679
+86            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Plainte$WDActiviteFenetre"
+86-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2439-2494
+87            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+87-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2495-2604
+88            android:hardwareAccelerated="false"
+88-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2642-2677
+89            android:theme="@android:style/Theme" />
+89-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2605-2641
+90        <activity
+90-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2679-2943
+91            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Documents$WDActiviteFenetre"
+91-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2689-2758
+92            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+92-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2759-2868
+93            android:hardwareAccelerated="false"
+93-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2906-2941
+94            android:theme="@android:style/Theme" />
+94-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2869-2905
+95        <activity
+95-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2943-3210
+96            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Audio_MOBILE$WDActiviteFenetre"
+96-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:2953-3025
+97            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+97-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3026-3135
+98            android:hardwareAccelerated="false"
+98-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3173-3208
+99            android:theme="@android:style/Theme" />
+99-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3136-3172
+100        <activity
+100-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3210-3471
+101            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Images$WDActiviteFenetre"
+101-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3220-3286
+102            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+102-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3287-3396
+103            android:hardwareAccelerated="false"
+103-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3434-3469
+104            android:theme="@android:style/Theme" />
+104-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3397-3433
+105        <activity
+105-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3471-3737
+106            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Explorateur_Documents_2$WDActiviteFenetre"
+106-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3481-3552
+107            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+107-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3553-3662
+108            android:hardwareAccelerated="false"
+108-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3700-3735
+109            android:theme="@android:style/Theme" />
+109-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3663-3699
+110        <activity
+110-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3737-3994
+111            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Plainte_MOBILE$WDActiviteFenetre"
+111-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3747-3809
+112            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+112-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3810-3919
+113            android:hardwareAccelerated="false"
+113-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3957-3992
+114            android:theme="@android:style/Theme" />
+114-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3920-3956
+115        <activity
+115-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:3994-4249
+116            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Nos_annonces$WDActiviteFenetre"
+116-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4004-4064
+117            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+117-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4065-4174
+118            android:hardwareAccelerated="false"
+118-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4212-4247
+119            android:theme="@android:style/Theme" />
+119-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4175-4211
+120        <activity
+120-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4249-4505
+121            android:name="com.masociete.finalerte.wdgen.GWDFFEN_Suivi_Plainte$WDActiviteFenetre"
+121-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4259-4320
+122            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+122-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4321-4430
+123            android:hardwareAccelerated="false"
+123-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4468-4503
+124            android:theme="@android:style/Theme" />
+124-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4431-4467
+125
+126        <uses-library
+126-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4505-4583
+127            android:name="org.apache.http.legacy"
+127-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4519-4556
+128            android:required="false" />
+128-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4557-4581
+129
+130        <activity
+130-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4583-4804
+131            xmlns:android="http://schemas.android.com/apk/res/android"
+131-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4593-4651
+132            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+132-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4652-4724
+133            android:theme="@android:style/Theme.DeviceDefault.Light" />
+133-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4725-4781
+134        <activity
+134-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4804-5013
+135            xmlns:android="http://schemas.android.com/apk/res/android"
+135-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4814-4872
+136            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+136-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4873-4941
+137            android:theme="@android:style/Theme.Translucent" />
+137-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:4942-4990
+138        <activity
+138-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5013-5378
+139            xmlns:android="http://schemas.android.com/apk/res/android"
+139-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5023-5081
+140            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity"
+140-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5082-5143
+141            android:label="@string/app_name" >
+141-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5144-5176
+142            <intent-filter>
+142-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5198-5282
+143                <action android:name="android.intent.action.SEARCH" />
+143-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5213-5266
+143-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5221-5264
+144            </intent-filter>
+145
+146            <meta-data
+146-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5282-5367
+147                android:name="android.app.searchable"
+147-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5293-5330
+148                android:resource="@xml/searchable" />
+148-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5331-5365
+149        </activity>
+150
+151        <provider
+151-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5378-5601
+152            xmlns:android="http://schemas.android.com/apk/res/android"
+152-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5388-5446
+153            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory"
+153-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5447-5507
+154            android:authorities="com.masociete.finalerte"
+154-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5533-5578
+155            android:exported="false" />
+155-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5508-5532
+156
+157        <activity
+157-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5601-5765
+158            xmlns:android="http://schemas.android.com/apk/res/android"
+158-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5611-5669
+159            android:name="fr.pcsoft.wdjava.net.oauth2.WDOAuth2Manager$OAuthActivity" />
+159-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5670-5742
+160
+161        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+161-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5765-5835
+161-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5774-5833
+162
+163        <meta-data
+163-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5835-5915
+164            android:name="fr.pcsoft.first_window_name"
+164-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5846-5888
+165            android:value="FEN_MENU" />
+165-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5889-5913
+166        <meta-data
+166-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5915-5995
+167            android:name="fr.pcsoft.splash_orientation_phone"
+167-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5926-5975
+168            android:value="4" />
+168-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5976-5993
+169        <meta-data
+169-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:5995-6076
+170            android:name="fr.pcsoft.splash_orientation_tablet"
+170-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6006-6056
+171            android:value="4" />
+171-->E:\Mes projets\Projet ROGER\Tono CF\Android\gen\AndroidManifest.xml:2:6057-6074
+172    </application>
+173
+174</manifest>

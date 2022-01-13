@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+t_typeplainte		TAR	218	nouvelle taille enregistrement : 218
+t_typeplainte	EntiteAccuseId	RUB+		EntiteAccuseId est une nouvelle clé
